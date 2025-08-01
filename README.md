@@ -1,6 +1,6 @@
-# Sistema de Gestión Empresarial
+# Sistema de Gestión elsuper 
 
-Sistema de gestión para pequeñas empresas que incluye módulos de Clientes, Empleados, Productos, Ventas e Inventario.
+Sistema de gestión para supermercados que incluye módulos de Clientes, Empleados, Productos, Ventas e Inventario.
 
 ## Características Principales
 
